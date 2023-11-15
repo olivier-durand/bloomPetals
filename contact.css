@@ -1,0 +1,12 @@
+.h1{
+font-size: 36;
+}
+
+body{
+background-color: rgb(239, 237, 241);
+margin-left: 20px;
+}
+label {
+padding-left: 10px;
+font-size: 18px;
+}
